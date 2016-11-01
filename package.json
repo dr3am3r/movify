@@ -1,0 +1,11 @@
+{
+  "name": "movify",
+  "version": "0.0.1",
+  "description": "Movie reminder",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "author": "Sergii Tsegelnyk <dr3am3r.ua@gmail.com> (http://serhiy.co/)",
+  "license": "WTFPL"
+}
