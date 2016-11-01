@@ -1,3 +1,2 @@
---require supertest
---reporter dot
+--reporter list
 --ui bdd
