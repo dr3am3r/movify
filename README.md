@@ -3,12 +3,15 @@
 * GET /search
   - title
 
+* POST /search
+  - title
+
 _200_ OK [ {movieObj} ]
 _400_ Bad Request
 
 
 
-* POST /subscribe
+* POST /reminders
   - movieId
   - movieTitle ?
   - releaseDate
