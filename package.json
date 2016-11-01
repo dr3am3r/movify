@@ -8,5 +8,10 @@
     "start": "NODE_PATH=. node --use_strict ./bin/www"
   },
   "author": "Sergii Tsegelnyk <dr3am3r.ua@gmail.com> (http://serhiy.co/)",
-  "license": "WTFPL"
+  "license": "WTFPL",
+  "dependencies": {
+    "dotenv": "2.0.0",
+    "ejs": "2.5.2",
+    "express": "4.14.0"
+  }
 }
